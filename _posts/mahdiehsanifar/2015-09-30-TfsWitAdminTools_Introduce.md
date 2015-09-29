@@ -2,7 +2,7 @@
 layout: post
 category : Development
 tagline: "Introduce TfsWitAdminTools"
-tags : [linq4es2015, JavaScript]
+tags : [TfsWitAdminTools]
 ---
 {% include JB/setup %}
 
