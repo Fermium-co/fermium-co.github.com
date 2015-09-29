@@ -27,7 +27,7 @@ Get involved in (your) open source projects through GitHub at https://github.com
 
 Feel free to leave your feedbacks on blog posts or send your tweets to [@fermium_co](http://twitter.com/fermium_co)
 
-Recent blog posts:
+**Recent blog posts:**
 
 <ul class="posts">
   {% for post in site.posts %}
