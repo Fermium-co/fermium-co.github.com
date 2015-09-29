@@ -25,7 +25,7 @@ But it's not just the core team, Fermium is driven forward by occasional contrib
 
 Get involved in (your) open source projects through GitHub at https://github.com/Fermium-co
 
-Feel free to leave your feedbacks here.
+Feel free to leave your feedbacks on blog posts or send your tweets to [@fermium_co](http://twitter.com/fermium_co)
 
 Recent blog posts:
 
