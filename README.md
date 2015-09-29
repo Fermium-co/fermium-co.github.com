@@ -12,7 +12,7 @@ Blog posts are Markdown .md files. Take a look at <https://stackedit.io/editor>,
 
 In _posts folder, create a folder named as your GitHub user name.
 
-You can use any other name if you prefer not to use your Git Hub user name, but it should not be a user name of other Git Hub user. 
+You can use any other name if you prefer not to use your Git Hub user name, but it should not be a user name of other Git Hub users. 
 
 Then create a .md file inside your folder with following naming format:
 
